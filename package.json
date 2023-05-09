@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.2.7",
+    "canvas": "^2.6.0",
+    "cheerio": "^1.0.0-rc.2",
+    "csv-stringify": "^4.3.1",
+    "date-fns": "^2.0.0-alpha.25",
+    "face-api.js": "^0.20.1",
+    "form-scraper": "0.0.4",
+    "lodash": "^4.17.15",
+    "nightmare": "^3.0.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "request-stats": "^3.0.0",
+    "rollup": "^1.19.4",
+    "rollup-plugin-visualizer": "^2.5.4"
+  }
+}
