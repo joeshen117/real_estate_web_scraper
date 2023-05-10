@@ -8,8 +8,4 @@ The scrper in this folder scraped data of all australia real estate sales people
 
 Go into folder for further instruction.
 
-### Log
-
-Sept 2019:
-Old data deleted.
 
